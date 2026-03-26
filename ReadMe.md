@@ -17,4 +17,8 @@
 
 ###
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neil-N4&theme=react-dark&bg_color=0d1117&hide_border=true)
+## ⚡ GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Neil-N4&show_icons=true&theme=github_dark)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neil-N4&theme=github-dark)
