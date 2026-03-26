@@ -13,7 +13,7 @@
 
 ###
 
-<h4 align="left">Fun Fact: I know every country flag!</h4>
+<h4 align="left">Fun Fact: I always know which direction I’m facing</h4>
 
 ###
 
