@@ -17,6 +17,4 @@
 
 ###
 
-## ⚡ GitHub Stats
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neil-N4&theme=github-dark)
