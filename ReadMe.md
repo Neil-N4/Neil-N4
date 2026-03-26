@@ -17,6 +17,4 @@
 
 ###
 
-## 📊 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neil-N4&theme=github-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neil-N4&theme=react-dark&bg_color=0d1117&hide_border=true)
