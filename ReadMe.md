@@ -19,6 +19,4 @@
 
 ## ⚡ GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Neil-N4&show_icons=true&theme=github_dark)
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Neil-N4&theme=github-dark)
